@@ -1,0 +1,13 @@
+{
+  "servico": "back-end-analytical-data",
+  "microsservicos": [],
+  "tabelas": [
+    "clientes",
+    "forma_pagamento",
+    "ordem_de_servicos",
+    "proposta_pagamento",
+    "registro_entrada",
+    "veiculos"
+  ],
+  "procedures": []
+}

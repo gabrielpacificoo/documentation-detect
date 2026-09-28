@@ -1,0 +1,35 @@
+{
+  "servico": "back-end",
+  "microsservicos": [
+    "analytical-data",
+    "export-data",
+    "identify-plate"
+  ],
+  "tabelas": [
+    "clientes",
+    "contatos",
+    "enderecos",
+    "forma_pagamento",
+    "fornecedor",
+    "funcionarios",
+    "item_entrada",
+    "item_estoque",
+    "item_produto",
+    "item_produto_estoque",
+    "item_servico",
+    "lado_veiculo",
+    "oficinas",
+    "ordem_de_servicos",
+    "parte_veiculo",
+    "produtos",
+    "proposta_pagamento",
+    "registro_entrada",
+    "registro_saida",
+    "tipo_servico",
+    "veiculos",
+    "vw_kpi_nfs_pendentes",
+    "vw_kpi_pgtos_realizados",
+    "vw_kpi_servicos_nao_pagos"
+  ],
+  "procedures": []
+}
